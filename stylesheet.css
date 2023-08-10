@@ -44,12 +44,6 @@ background-color: #BDBDBD;
     font-weight: bolder;
   }
 
-/* Styling my 3 skill lists */
-.Software {
-
-    color: #003B6D;
-    font-weight: bolder;
-}
 
 /* Used ID here instead of class as my menu brings the user to this part of my 
 website & cannot be changed or the function will not work */
@@ -59,7 +53,7 @@ website & cannot be changed or the function will not work */
 }
  
 
-.Accomplishments {
+.DarkBlue {
 
     color: #003B6D;
     font-weight: bolder;
